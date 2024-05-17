@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Development**
 
-- 👨‍💻 All of my projects are available at [www.ramandeepbedi.com](www.ramandeepbedi.com)
+- 👨‍💻 All of my projects are available at [www.ramandeepbedi.com](https://www.ramandeepbedi.com)
 
 - 💬 Ask me about **React, ReactNative, NodeJS & Solidity**
 
